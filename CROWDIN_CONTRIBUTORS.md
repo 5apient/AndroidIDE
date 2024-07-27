@@ -79,6 +79,13 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
         <sub><b>1813 words</b></sub>
       </td>
       <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/Pixie_Kevin"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15346332/medium/d50d7916e6920d66b9958414f505ab25.jpg" />
+          <br />
+          <sub><b>☆Pixie Kevin☆ (Pixie_Kevin)</b></sub></a>
+        <br />
+        <sub><b>1720 words</b></sub>
+      </td>
+      <td align="center" valign="top">
         <a href="https://crowdin.com/profile/selyanlian17516"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15547677/medium/f9e760635fee6bdc359732233aea790d.jpeg" />
           <br />
           <sub><b>Selyan Lian (selyanlian17516)</b></sub></a>
@@ -90,7 +97,7 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
           <br />
           <sub><b>Marvin Stelter (TheDonMarv)</b></sub></a>
         <br />
-        <sub><b>1673 words</b></sub>
+        <sub><b>1756 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/ranjitsingha"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/16160248/medium/fc57448235af07fb7198e51157bd3d9b.jpeg" />
@@ -113,6 +120,15 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
         <br />
         <sub><b>543 words</b></sub>
       </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/sb-codz"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15917451/medium/0c662ef3e0d22b939bc5fa42db83f174.png" />
+          <br />
+          <sub><b>sb-codz</b></sub></a>
+        <br />
+        <sub><b>343 words</b></sub>
+      </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/hassanowo013"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/16205550/medium/75073a2fde9eb6735fae539714cda4e1.jpeg" />
           <br />
@@ -120,8 +136,6 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
         <br />
         <sub><b>285 words</b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Marcus_Jeeves"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15930373/medium/64fdfbf36048d06fa800c60cfc455cba_default.png" />
           <br />
